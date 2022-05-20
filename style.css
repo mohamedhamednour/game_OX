@@ -1,0 +1,49 @@
+.game{
+    width: 350px;
+    margin: auto;
+    color: rgb(24, 241, 24);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.board{
+    background-color: rgb(248, 147, 15);
+    padding: 2px  2px ;
+    width: 270px;
+    margin: 5px 0;
+}
+.boards{
+    opacity: 0;
+    text-align: center;
+    color: aliceblue;
+}
+
+.again-game{
+    opacity: 0;
+    text-align: center;
+   
+}
+
+body{
+    background-color: rgb(238, 223, 230);
+}
+
+.squre{
+    width: 80px ;
+    height: 80px;
+    background-color: rgb(255, 167, 34);
+    float: left;
+    margin: 5px;
+    font-size: 50px;
+    padding: 13px;
+    font-weight: 50px;
+}
+
+.squre:hover{
+background-color: rgb(8, 5, 5);
+}
+
+
+#item{
+    color: blueviolet;
+}
