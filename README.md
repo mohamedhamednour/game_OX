@@ -1,4 +1,8 @@
 # game_OX
+# geolocation 
+# code try and catch by stackoverflow
+
+
 OX game 
 
 
